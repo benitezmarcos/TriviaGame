@@ -89,6 +89,7 @@ body{
 }
 #counter{
     font-size: 3em;
+    color: white;
 }
 #btimeGauge{
     width : 150px;
